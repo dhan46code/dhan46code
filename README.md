@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhan46code
 - 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning HTML5, CSS3, React Hooks
+- 🌱 I’m currently learning HTML5, CSS3, React Hooks, Serverless API
 
 
 <!---
